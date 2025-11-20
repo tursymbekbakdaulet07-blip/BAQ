@@ -9,3 +9,10 @@ def div(a,b):
 
 if __name__ == "__main__":
   print(div(10, 5))
+
+
+def mul(a, b):
+  return a * b
+
+if __name__ == "__name__":
+  print(mul(12, 10))
