@@ -8,4 +8,4 @@ def test_div():
   assert div(10, 5) == 2
 
 def test_mul():
-  assert mul(12, 10) == 121
+  assert mul(12, 10) == 120
